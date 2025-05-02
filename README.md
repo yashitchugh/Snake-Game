@@ -15,7 +15,7 @@ This is a classic **Snake Game** made with **HTML, CSS, and JavaScript**. The ga
 
 ## 📸 Screenshots
 
-![Background Image](https://wallpapers.com/snake-game-background)
+![Background Image](C:\Users\Yashit\Downloads\download.jpg)
 
 > You can replace this with your actual screenshot file.
 
